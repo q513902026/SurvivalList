@@ -1,0 +1,16 @@
+[
+{
+  "modid": "survivalfactor",
+  "name": "Survival Factor",
+  "description": "Survival Factor.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["HopeAsd"],
+  "credits": "bilicraft Server guys",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
